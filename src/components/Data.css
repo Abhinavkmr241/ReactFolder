@@ -1,0 +1,12 @@
+.normal-folder {
+    height: 50px;
+    width: auto;
+    background-color: yellow;
+}
+
+.selected-folder {
+    height: 50px;
+    width: auto;
+    background-color: gray;
+    color: whitesmoke;
+}
